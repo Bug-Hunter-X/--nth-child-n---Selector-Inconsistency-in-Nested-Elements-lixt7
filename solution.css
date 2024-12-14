@@ -1,0 +1,15 @@
+/* solution.css */
+
+/* Instead of relying solely on :nth-child, use classes to target specific elements.  This approach is more robust and less prone to issues with dynamic content */
+.item-1 { /* Style for the first item */ 
+  background-color: lightblue; 
+}
+.item-2 { /* Style for the second item */ 
+  background-color: lightcoral; 
+}
+.item-3 { /* Style for the third item */ 
+  background-color: lightgreen; 
+}
+
+/* JavaScript (example):  Add/Remove classes dynamically to control styling */
+// ... (JavaScript code to add/remove classes based on element position or other criteria) ... 
