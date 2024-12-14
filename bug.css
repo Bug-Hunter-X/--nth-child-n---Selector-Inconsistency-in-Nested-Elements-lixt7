@@ -1,0 +1,1 @@
+The CSS rule `:nth-child(n)` selector sometimes doesn't work as expected when dealing with complex nested elements or dynamic content.  It can misinterpret the element's position within its parent if the parent's structure changes.
